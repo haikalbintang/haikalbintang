@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Haikal
-- 👀 I’m a Junior Software Engineer
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on educational projects
-- ⚡ Fun fact: I'm a new medical graduate
+- 👀 I’m a Full Stack Software Engineer
+- ⚡ Fun fact: I have a bachelor's degree in medicine
 
 <!---
 haikalbintang/haikalbintang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
