@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Haikal
-- 👀 I’m a Full Stack Software Engineer
-- ⚡ Fun fact: I have a bachelor's degree in medicine
+👋 Hi, I’m Haikal
+
+👀 I’m an Aspiring Software Engineer 👀
 
 <!---
 haikalbintang/haikalbintang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
