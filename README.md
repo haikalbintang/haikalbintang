@@ -1,6 +1,6 @@
 👋 Hi, I’m Haikal
 
-👀 I’m an Aspiring Software Engineer 👀
+👀 I’m an Aspiring Software Engineer 🌟
 
 <!---
 haikalbintang/haikalbintang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
