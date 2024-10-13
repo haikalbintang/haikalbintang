@@ -59,13 +59,15 @@
 <!---Links--->
 <h3 align="center">Feel free to check out my link connections:</h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/muhammad-haikal-bintang/">
+    <a href="https://www.linkedin.com/in/muhammad-haikal-bintang/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
-<a href="mailto:mhaikalbintang.work@gmail.com">
+<a href="mailto:mhaikalbintang.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=red" />
 </a>
-
+<a href="https://wa.me/6287877901515" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
 </div>
 
 
