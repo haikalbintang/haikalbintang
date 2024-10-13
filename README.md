@@ -1,3 +1,4 @@
+<br>
 <h1 align="center">
    <strong>:wave: Hi There! Welcome to Haikal's Profile 😊
     <!-- <div align="left">
@@ -68,10 +69,11 @@
 <br>
 <br>
 <br>
-<br>
 
-###### <div align="center"> &copy; 2024 Muhammad Haikal Bintang. All rights reserved.</div>
-
+<!---Footer--->
+<div align="center">
+    <small>&copy; 2024 Muhammad Haikal Bintang. All rights reserved.</small>
+</div>
 <!---
 haikalbintang/haikalbintang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
