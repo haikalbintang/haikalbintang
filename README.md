@@ -63,6 +63,10 @@
     <a href="https://www.linkedin.com/in/muhammad-haikal-bintang/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
+<a href="mailto:mhaikalbintang.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=red" />
+</a>
+
 </div>
 
 
