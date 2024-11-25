@@ -8,6 +8,8 @@
     </div> -->
 </h1> 
 
+<h3 align="center"> You can visit my more complete profile through the link in my bio.</h3>
+
 <!---Links--->
 <h3 align="center">Feel free to check out my link connections:</h3>
 <div align="center">
@@ -26,8 +28,6 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=haikalbintang&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
 </p>
-<br>
-<br>
 <br>
 
 <!---Footer--->
