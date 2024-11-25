@@ -8,17 +8,21 @@
     </div> -->
 </h1> 
 
-<h3 align="center"> You can visit my more complete profile through the link in my bio.</h3>
+<h3 align="center"> You can visit my more complete profile through the link in my bio. ![ClickGIF](https://github.com/user-attachments/assets/2b156b67-222d-42cf-934e-4b164a1b0320)
+</h3>
+<br />
+<br />
 
 <!---Links--->
-<h3 align="center">Feel free to check out my link connections:</h3>
+<h3 align="center">And feel free to check out my link connections:</h3>
 <div align="center">
 <a href="mailto:mhaikalbintang.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=red" width="200" height="50" />
 </a>
 <a href="https://wa.me/6287877901515" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" width="200" height="50" />
 </a>
+
 </div>
 <br />
 <br />
@@ -28,7 +32,6 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=haikalbintang&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
 </p>
-<br>
 
 <!---Footer--->
 <div align="center">
