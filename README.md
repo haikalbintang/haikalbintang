@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">
-   <strong>:wave: Hi There! Welcome to Haikal's Profile ⭐
+   <strong>:wave: Hi There! Welcome to Haikal's Profile 😊
     <!-- <div align="left">
         <a href="https://www.tokopedia.com/herbalamimum" target="_blank" rel="noopener noreferrer">
             <img alt="Maris Tokopedia" width="30px" src="https://drive.google.com/uc?id=1IRowQh8vP4VsejW_E-Zul7zJZI5lIQCJ" />
@@ -9,7 +9,7 @@
 </h1> 
 <br />
       
-<h3 align="center">🧐 You can visit my full profile through the link in my bio. 😊
+<h3 align="center">You can visit my full profile through the link in my bio.
 </h3>
 
 <p align="center">
