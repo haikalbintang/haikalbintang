@@ -11,9 +11,6 @@
 <!---Links--->
 <h3 align="center">Feel free to check out my link connections:</h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/muhammad-haikal-bintang/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
 <a href="mailto:mhaikalbintang.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=red" />
 </a>
@@ -21,21 +18,21 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
 </div>
+<br />
+<br />
+<br />
 
 <!---Viewer--->
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=haikalbintang&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
 </p>
 <br>
-
-
-<br>
 <br>
 <br>
 
 <!---Footer--->
 <div align="center">
-    <small>&copy; 2024 Muhammad Haikal Bintang. All rights reserved.</small>
+    <h6>&copy; 2024 Muhammad Haikal Bintang. All rights reserved.</h6>
 </div>
 <!---
 haikalbintang/haikalbintang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
